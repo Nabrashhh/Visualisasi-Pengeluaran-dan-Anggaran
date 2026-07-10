@@ -29,3 +29,12 @@ Ikuti langkah-langkah mudah berikut untuk menjalankan proyek di komputer lokal A
 1. **Clone Repositori**
    
    git clone [https://github.com/nabrashhh/Visualisasi-Pengeluaran-dan-Anggaran.git](https://github.com/nabrashhh/Visualisasi-Pengeluaran-dan-Anggaran.git)
+
+2. **Masuk Direktori Proyek**
+
+   cd Visualisasi-Pengeluaran-dan-Anggaran
+
+3. **Jalankan Aplikasi**
+
+   Jalankan Aplikasi
+​Buka file index.html langsung melalui browser pilihan Anda dengan cara klik ganda (double-click) pada file tersebut, atau klik kanan lalu pilih 'Open with Browser'.
