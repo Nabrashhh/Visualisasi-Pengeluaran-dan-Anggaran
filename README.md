@@ -48,4 +48,5 @@ Ikuti langkah-langkah mudah berikut untuk menjalankan proyek di komputer lokal A
     Grafik interaktif secara otomatis akan memperbarui tampilan porsi pengeluaran berdasarkan kategori untuk membantu Anda mengevaluasi sisa saldo secara real-time.
 
 ​## 👥 Kontribusi & Kredit (Credit)
+
 ​Proyek ini dikembangkan sepenuhnya oleh nabrashhh. Terbuka untuk saran, masukan, dan kontribusi guna pengembangan fitur visualisasi keuangan yang lebih komprehensif.
