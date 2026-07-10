@@ -31,9 +31,9 @@ Ikuti langkah-langkah mudah berikut untuk menjalankan proyek di komputer lokal A
    git clone [https://github.com/nabrashhh/Visualisasi-Pengeluaran-dan-Anggaran.git](https://github.com/nabrashhh/Visualisasi-Pengeluaran-dan-Anggaran.git)
 
 2. **Masuk Direktori Proyek**
-   '''bash
+   
    cd Visualisasi-Pengeluaran-dan-Anggaran
-   '''
+   
 3. **Jalankan Aplikasi**
 
    Jalankan Aplikasi
